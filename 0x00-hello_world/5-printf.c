@@ -1,8 +1,8 @@
-#include<stadio.h>
+#include <stdio.h>
 /**
  * main-Print a C program using printf
  *
- * Return: Always 0
+ * Return: 0
  */
 int main(void)
 {
